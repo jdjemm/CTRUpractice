@@ -1,3 +1,5 @@
+*This is some text I would like to add; 
+
 dm 'log; clear; output; clear;'; /* clear log and output */
 
 title;
