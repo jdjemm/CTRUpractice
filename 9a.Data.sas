@@ -1,3 +1,6 @@
+*This is for show in the SAS WG;
+
+
 *This is some text I would not like to add; 
 
 dm 'log; clear; output; clear;'; /* clear log and output */
